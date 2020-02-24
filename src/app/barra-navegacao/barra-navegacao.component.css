@@ -7,3 +7,15 @@
     display: inline-block;
     margin-left: 10px;
 }
+
+a {
+    height: 24px;
+    width: 45px;
+}
+
+.icon-bar {
+    width: 30px;
+    height: 3px;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: 6px 0;
+}
